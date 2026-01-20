@@ -1,0 +1,5 @@
+version: "0.1.0"
+description: "Device Component for Meo3"
+dependencies:
+  idf: ">=5.0"
+  bblanchon/arduinojson: "*"

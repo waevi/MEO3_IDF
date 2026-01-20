@@ -1,0 +1,5 @@
+version: "0.1.0"
+description: "MQTT Client Wrapper"
+dependencies:
+  idf: ">=5.0"
+  espressif/mqtt: "*"

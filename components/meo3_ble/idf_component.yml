@@ -1,0 +1,4 @@
+version: "0.1.0"
+description: "BLE Component for Meo3"
+dependencies:
+  idf: ">=5.0"
